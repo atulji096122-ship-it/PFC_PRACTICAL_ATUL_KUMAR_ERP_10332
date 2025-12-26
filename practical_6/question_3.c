@@ -1,4 +1,7 @@
 // ATM Pin authentication
+
+//ATUL_KUMAR_ERP_10332
+
 #include <stdio.h>
 int main() {
     int pin = 1234;
@@ -13,4 +16,8 @@ int main() {
     }
     return 0;
 }
+
+// Enter your ATM PIN: 1234
+// Access Granted. Welcome!
+// PS C:\Users\DELL\OneDrive\Desktop\c assigment\practical_6> 
 

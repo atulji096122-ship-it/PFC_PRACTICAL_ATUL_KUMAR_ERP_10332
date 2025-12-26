@@ -1,8 +1,10 @@
 // Hourglass of length 2n-1.
 
+//ATUL_KUMAR_ERP_10332
 #include <stdio.h>
 int main(){
     int n;
+    printf("enter length of hourglass:");
     scanf("%d",&n);
     for(int i=n ; i>=1 ; i--){
         for(int j=1 ; j<=n-i ; j++){
@@ -21,3 +23,16 @@ int main(){
         }printf("\n");
     }
 }
+
+
+// enter length of hourglass:5
+// *********
+//  *******
+//   *****
+//    ***
+//     *
+//    ***
+//   *****
+//  *******
+// *********
+// PS C:\Users\DELL\OneDrive\Desktop\c assigment\practical_7> 

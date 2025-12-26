@@ -4,6 +4,8 @@
 // ABC
 // ABCD
 
+//ATUL_KUMAR_ERP_10332
+
 #include <stdio.h>
 int main(){
 
@@ -16,3 +18,9 @@ int main(){
         
     }
 }
+
+// A
+// AB
+// ABC
+// ABCD
+// PS C:\Users\DELL\OneDrive\Desktop\c assigment\practical_7> 
